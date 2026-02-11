@@ -1,7 +1,7 @@
 ﻿/* * Developer: Cave Arnold
  * AI Assistant: Gemini
  * Date: February 5, 2026
- * Version: 1.2.1
+ * Version: 1.2.2
  * * Abstraction: 
  * This is a Windows Forms application designed to manually update the balance of the 
  * "Voya - Cave's 401(k)" account in the "Guyton-Klinger-Withdrawals" database.
@@ -23,6 +23,7 @@
  * - v1.1.0 (Feb 05, 2026): Added current balance retrieval on startup.
  * - v1.2.0 (Feb 05, 2026): UI overhaul (Dark Mode, Lime Green text, Centered Alignment).
  * - v1.2.1 (Feb 05, 2026): Updated database logic to enforce strict "One Entry Per Day" validation.
+ * - v1.2.2 (Feb 11, 2026): Added Applicatioon Icon. * 
  */
 using System;
 using System.Data;
